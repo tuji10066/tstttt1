@@ -1,0 +1,963 @@
+
+
+<head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PL4XZXZD');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <!-- meta情報 -->
+    <title>オンライン受検会場のご案内</title>
+    <meta name="description" content="オンライン受検会場の受検方法をご案内します">
+    <meta name="keywords" content="HURREP／オンライン受検／SPI／WEB／WEB受検／就職活動">
+    <!-- ogp -->
+    <meta property="og:title" content="オンライン受検会場のご案内">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="//">
+    <meta property="og:image" content="/images/01_mainvisual">
+    <meta property="og:site_name" content="オンライン受検会場のご案内">
+    <meta property="og:description" content="オンライン受検会場の受検方法をご案内します">
+    <!-- ファビコン -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&amp;display=swap" rel="stylesheet">
+    <link rel="icon" href="#">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body id="top">
+
+
+
+<!-------- ヘッダー -------->
+
+<header id="header">
+        
+        <!--SP版ナビ-->
+        <div class="nav-btn">
+            <div class="nav-btn-ch">
+                <div class="nav-line-over"></div>
+                <img class="nav-line-center" src="images/navi_menu.svg">
+                <div class="nav-line-under"></div>
+            </div>
+        </div>
+
+        <nav class="nav-header">
+
+            <ul class="nav-list">
+                <li class="nav-item"><a class="nav-link" href="#online">1. オンライン会場受検とは</a></li>
+                <li class="nav-item"><a class="nav-link" href="#pre">2. 事前準備</a></li>
+                <li class="nav-item"><a class="nav-link" href="#start">3. 検査開始</a></li>
+                <li class="nav-item"><a class="nav-link" href="#finished">4. 検査終了</a></li>
+                <li class="nav-item"><a class="nav-link" href="#avoid">5. 禁止事項</a></li>
+                <li class="nav-item"><a class="nav-link" href="#q_a">6. 各種お問い合わせ</a></li>
+            </ul>
+
+        </nav>
+
+        <!--PC版ナビ-->
+        <nav class="pc-nav-header">
+
+            <ul class="pc-nav-list">
+                <li class="pc-nav-item"><a class="pc-nav-link" href="#online">1. オンライン会場受検とは</a></li>
+                <li class="pc-nav-item"><a class="pc-nav-link" href="#pre">2. 事前準備</a></li>
+                <li class="pc-nav-item"><a class="pc-nav-link" href="#start">3. 検査開始</a></li>
+                <li class="pc-nav-item"><a class="pc-nav-link" href="#finished">4. 検査終了</a></li>
+                <li class="pc-nav-item"><a class="pc-nav-link" href="#avoid">5. 禁止事項</a></li>
+                <li class="pc-nav-item"><a class="pc-nav-link" href="#q_a">6. 各種お問い合わせ</a></li>
+            </ul>
+
+        </nav>
+
+</header>
+
+
+
+<!-------- メインビジュアル -------->
+
+<main>
+
+    <div class="main">
+        <img class="main-visual" id="main-pc" src="images/01_mainvisual.jpg">
+        <img class="main-visual" id="main-sp" src="images/01_main_sp.jpg">
+        <div class="copy"><img class="main-caption" src="images/copy.svg"></div>
+        <!--<div class="copy copy-box"><h1 class="copy-1">オンライン会場受検のご案内</h1><div class="copy-2">SPI３テストセンターのオンライン会場受検における概要、<br class="sp">受検前の準備や受検当日についてご説明します</div></div>-->
+    </div>    
+
+    <div class="scroll">
+        <div class="square"><div class="circle"></div></div>
+        <p class="scroll-text is-fadein">SCROLL</p>
+    </div>
+
+</main>
+
+
+
+<!-------- 1. オンライン会場受検とは ----------->
+
+<section class="section" id="online">
+
+    <div class="h2-div is-fadein">
+        <h2>1. オンライン会場受検とは</h2>
+        <hr class="h2-line is-fadein">
+    </div>
+    
+    <div class="container is-fadein">
+        <p class="body-text is-fadein">自宅などにパソコンを用意し、監督者とオンライン画面で接続し、監督を受けながら受検する方法です。 <span class="under-p">本人確認書類とパソコンなどの受検環境を用意すれば、会場に移動することなく自宅で受検できます。</span><br>オンライン会場では受付から検査終了までの間、 監督者がパソコン画面をリアルタイムで確認いたします。<span class="under-p">受検環境を確認する際には、監督者が室内を360度確認しますが、公平性の担保のためご理解いただけますようよろしくお願いいたします。</span>なお、映像、PC画面、音声は監督者がオンライン上でリアルタイムに確認をしますが、録音、録画することはございません。</p>
+        <img class="img-about is-fadein" src="images/02_online_pic.jpg">
+    </div>
+
+    <div class="column column-1">
+        <h5>受検までの流れ</h5>
+        <hr class="vertical-line">
+        <img class="column-content-1" id="pc-img-1" src="images/_graph_1.png">
+        <img class="column-content-1" id="sp-img-1" src="images/_graph_sp_1.png">
+    </div>
+
+</section>
+
+
+
+<!-------- 2. 事前準備 ----------->
+
+<section class="section" id="pre">
+
+    <div class="h2-div">
+        <h2>2. 事前準備</h2>
+        <hr class="h2-line">
+    </div>
+
+
+    <div class="container index">
+
+        <p class="heading-index">（１）予約方法</p>
+
+        <ul class="index-box">
+            <a class="index-con" href="#2-1">
+                <li class="index 01"><img class="img-no" src="images/__number_01.svg"></li>
+                <li class="index cap">予約の流れ</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box">
+            <a class="index-con" href="#2-2">
+                <li class="index 01"><img class="img-no" src="images/__number_02.svg"></li>
+                <li class="index cap">予約変更・キャンセル</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box">
+            <a class="index-con" href="#2-3">
+                <li class="index 01"><img class="img-no" src="images/__number_03.svg"></li>
+                <li class="index cap">注意点</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+
+    </div>
+    <hr class="index-line">
+    <p class="body-text">まず企業へエントリー後、企業から受検依頼メールを受け取ります。次に、受検依頼メールに従って性格適性検査のWeb受検と能力検査の受検予約を行います。詳しい流れや予約変更・キャンセル方法などは下記をご確認ください。</p>
+
+
+    <div class="h3-div" id="2-1">
+        <img class="h3-no" src="images/__number_01.svg">
+        <h3>予約の流れ</h3>
+    </div>
+    <ul class="number-li">
+        <li class="num">初めて受検する方はTCID（テストセンターID）を取得します。<br>
+        受検したことがある方はすでに取得したTCIDを使って予約・前回結果送信をします。</li>
+        <li class="num">当日予約 or 翌日以降予約を選択<br>
+        ∟当日予約：性格検査受検 → 予約<br>
+        ∟翌日以降予約：仮予約 → 性格検査受検<br>
+        <span class="indent">※仮予約扱いとなるので、翌日AM3:00までに性格検査を受検する必要がございます。</span></li>
+    </ul>
+    <div class="h3-div" id="2-2">
+        <img class="h3-no" src="images/__number_02.svg">
+        <h3>予約変更・キャンセル</h3>
+    </div>
+    <ul class="number-li">
+        <li>予約変更、キャンセルは予約タームの1時間前までとなります。<br>
+            <span class="indent">※キャンセル忘れをしないようご注意ください。</span>
+        </li>
+    </ul>
+    <div class="h3-div" id="2-3">
+        <img class="h3-no" src="images/__number_03.svg">
+        <h3>注意点</h3>
+    </div>
+    <ul class="dot-li w-l">
+        <li>受検する検査によって、検査にかかる時間が異なります。また、検査開始前には約15分の受付を行います。<br> ┗検査時間目安　能力検査：約35分、英語検査：約20分、構造的把握力検査：約20分</li>
+        <li>締切日付近は混雑し予約が取りづらくなるため、メールが届いたらすぐに予約をお願いします。</li>
+        <li>事前準備についてこちらのサイトで十分ご理解のうえ、当日に向けてのご準備をお願いします。</li>
+    </ul>
+    
+
+
+    <hr class="sp-line">
+
+    <div class="container index index-up-1">
+        <p class="heading-index">（２）事前準備</p>
+        <ul class="index-box">
+            <a class="index-con" href="#2-4">
+                <li class="index 01"><img class="img-no" src="images/__number_01.svg"></li>
+                <li class="index cap">用意する機器</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box">
+            <a class="index-con" href="#2-5">
+                <li class="index 01"><img class="img-no" src="images/__number_02.svg"></li>
+                <li class="index cap">用意する受検環境</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box">
+            <a class="index-con" href="#2-6">
+                <li class="index 01"><img class="img-no" src="images/__number_03.svg"></li>
+                <li class="index cap">当日に用意するもの</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box index-box-last">
+            <a class="index-con" href="#2-7">
+                <li class="index 01"><img class="img-no" src="images/__number_04.svg"></li>
+                <li class="index cap">受検当日の準備</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+    </div>
+
+    <hr class="index-line">
+
+    <div class="h3-div" id="2-4">
+        <img class="h3-no" src="images/__number_01.svg">
+        <h3>用意する機器</h3>
+    </div>
+
+    <div class="column column-2">
+        <h5>準備が必要な機器</h5>
+        <hr class="vertical-line">
+        <img class="column-content-2" id="pc-img-2" src="images/_graph_2.png">
+        <img class="column-content-2" id="sp-img-2" src="images/_graph_sp_2.png">
+    </div>
+
+    <div class="column column-3">
+        <h5 class="margin-h5">パソコンの推奨環境</h5>
+        <hr class="vertical-line line-list">
+        <ul class="column-ul">
+            <li class="column-li">
+                <p class="list-boss">オペレーションシステム（OS）</p>
+                <p class="list-member">                    
+                    日本語版 Windows10<br>
+                    日本語版 Windows11<br>
+                    日本語版 MacOS 10.13以降<br>
+                </p>
+            </li>
+            <li class="column-li">
+                <p class="list-boss">ブラウザ</p>
+                <p class="list-member">
+                    <span class="under-p">最新版のGoogle Chrome、Microsoft Edge（Chromium版）のみ</span><br>上記以外のブラウザでは正常に受検が完了できません
+                </p>
+            </li>
+            <li class="column-li">
+                <p class="list-boss">CPU</p>
+                <p class="list-member">
+                    1GHz以上
+                </p>
+            </li>
+            <li class="column-li">
+                <p class="list-boss">メモリ（RAM）</p>
+                <p class="list-member">
+                    4GB以上
+                </p>
+            </li>
+	    <li class="column-li">
+                <p class="list-boss">インターネット</p>
+                <p class="list-member">
+                    回線速度：上り/下りともに 10Mbps 相当以上<br>
+                    接続方法：無線やWi-Fiではなく、有線LANでの接続を推奨
+                </p>
+            </li>
+            <li class="column-li">
+                <p class="list-boss">ブラウザの拡大設定</p>
+                <p class="list-member">
+                    100 ％となっていること
+                </p>
+            </li>
+	    <li class="column-li">
+                <p class="list-boss">テキストサイズの設定</p>
+                <p class="list-member">
+                    100 ％となっていること
+                </p>
+            </li>
+            <li class="column-li">
+                <p class="list-boss">ディスプレイの解像度</p>
+                <p class="list-member">
+                    横：1024以上<br>縦：800以上
+                </p>
+            </li>            
+            <li class="column-li">
+                <p class="list-boss">Webカメラ</p>
+                <p class="list-member">
+                    フレームレート：10fps以上<br>
+                    解像度：640×480以上<br>
+                    カメラ種類：パソコン内蔵カメラ、外付けカメラのどちらも利用可能<br>
+                    ※カメラは、受検者を正面から映す角度に設置されている必要があります
+                </p>
+            </li>
+            <li class="column-li">
+                <p class="list-boss">サウンド・マイク</p>
+                <p class="list-member">
+                    オーディオとマイクがミュートにされていないこと
+                </p>
+            </li>
+            <li class="column-li">
+                <p class="list-boss">デバイス</p>
+                <p class="list-member">
+                    タブレット、スマートフォンでは受検できません
+                </p>
+            </li>                        
+        </ul>
+    </div>
+
+    <div class="h3-div" id="2-5">
+        <img class="h3-no" src="images/__number_02.svg">
+        <h3>用意する受検環境</h3>
+    </div>
+    <p class="body-text">
+        オンライン会場受検では、受検環境を満たしている機材、環境をご準備ください。
+    </p>
+
+    <div class="container con-03">
+        <ol class="number-li" start="1">
+            <li class="body-text bold-body" id="bold-top">Webカメラ付きのパソコン</li>
+        </ol>
+        <div class="line-03"></div>
+        <img class="img-en" src="images/ready_1.png">
+        <div class="en-box">
+            <p class="body-text bold-body" id="bold-1">パソコン</p>
+            <ul>
+                <li class="body-text list-margin">検査が実施できるパソコンをご用意ください。
+                    <br><span class="indent">※タブレット・スマートフォンでは受検できません。</span>
+                    <br><span class="indent">※ノートパソコンの場合、モニターは利用できません。</span>
+                    <br><span class="indent">※OS、ブラウザは最新版を使用してください。</span>
+                    <br><span class="indent">※検査で利用できるブラウザはGoogle Chrome、Microsoft Edge（Chromium版）のみです。</span>
+                </li>
+            </ul>
+            <p class="body-text bold-body" id="bold-2">カメラ</p>
+            <ul>
+                <li class="body-text list-margin">パソコン内蔵もしくは外付けのカメラをご用意ください。
+                    <br><span class="indent">※カメラは、<span class="under-p">受検者を正面から映す角度に</span>設置されている必要があります。</span>
+                    <br><span class="indent">※携帯電話、一眼レフなどのカメラをWebカメラの代用として利用することはできません。</span>
+                </li>
+            </ul>
+            <p class="body-text bold-body" id="bold-3">オーディオ</p>
+            <ul>
+                <li class="body-text list-margin">マイク：受検者の音声を入力できること。
+                    <br>スピーカー：監督者の音声が出力できること。
+                    <br><span class="indent">※イヤホン・ヘッドセットは使用できません。</span>
+		    <br><span class="indent">※外付けのマイクやスピーカーについて、イヤホン・ヘッドセットの形状をしているものや、身に付けて使用するタイプのものは使用できません。</span>
+		    <br><span class="indent">※ノートパソコンの場合、外付けのマイクやスピーカーは利用できません。</span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="container con-03">
+        <ol class="number-li" start="2">
+            <li class="body-text bold-body">インターネット環境<p></p>
+        </li></ol>
+        <div class="line-03"></div>
+        <img class="img-en" src="images/ready_2.png">
+        <div class="en-box">
+            <div class="dot-li-ch">
+                <p class="body-text">上り下りともに10Mbps以上のインターネット回線環境をご用意ください。<br>無線（Wi-Fi）・テザリングではなく、有線接続を推奨しています。</p>
+            </div>
+            <p class="body-text list-caption"><span class="indent">※インターネット回線が不安定な場合は検査が実施できない場合がございます。<br>事前に回線速度を確認し条件を満たした環境の確保をお願いします。</span>
+        </p></div>
+    </div>
+    <div class="container con-03">
+        <ol class="number-li" start="3">
+            <li class="body-text bold-body">検査実施に適した場所／環境<p></p>
+        </li></ol>
+        <div class="line-03"></div>
+        <img class="img-en" src="images/ready_3.png">
+        <div class="en-box">
+            <p class="body-text">下記の受検場所として必要な条件を確認して、ご自身で適切な受検環境を用意してください。<br>監督者から不適切な状態と判断される場合は、不正行為と見なす可能性があります。</p>
+            <p class="body-text" id="head-1122">★受検場所として必要な条件★</p>
+            <ul class="list-1122">
+                <li class="text-1122">■検査を行う部屋の中に、第三者がいる状態では受検できません。</li>
+                <li class="text-indent-1122">・故意である、なしに関わらず、第三者の方の入室は禁止となっています。第三者が勝手に入室できない環境を用意してください。</li>               
+            </ul>
+            <ul class="list-1122">
+                <li class="text-1122">■四方が全て壁で仕切られている場所を用意してください。</li>
+                <li class="text-indent-1122">・壁に透明なガラスの部分があったり、窓があったりするなど、内外の状況が見える状態での受検はできません。</li><li class="text-indent-inner-1122">※窓がある部屋で受検するには、外が完全に見えないようにカーテンを閉めていただく必要があります。</li>               
+            </ul>
+            <ul class="list-1122">
+                <li class="text-1122">■監督者が監督する上で十分な明るさ、静かさが必要です。</li>
+                <li class="text-indent-1122">・監督者がカメラで受検者の顔や動作、本人確認書類、受検環境などが確認できるよう、受検する部屋は十分な明るさを確保してください。また、逆光になったり、死角ができたりしないようにしてください。</li>
+                <li class="text-indent-1122">・音声も監督しているため、検査以外の音声が入り込んだり、鳴らしたりしないようにしてください。また、音声が部屋の外に届かないようにしてください。</li>
+            </ul>
+            <ul class="list-1122">
+                <li class="text-1122">■検査を行う部屋は、持ち込み可能なもの以外はない状態にしてください。</li>
+                <li class="text-indent-1122">・受検するPC以外に映像や画像が映るモニター（または類するもの）、テキストや資料など検査実施に適切ではないものは部屋の中にないようにしてください。</li>
+                <li class="text-indent-1122">・カレンダーやポスターが壁に貼ってあったり、棚にものが置いてあったりする場合は、取り外していただくか、もしくは、見えないように隠しておいてください。</li><li class="text-indent-inner-1122">※その他、監督者が適切ではないと判断したものについては、その場で片付けていただくか、もしくは、見えないように隠してしていただく必要があります。</li>
+                <li class="text-indent-1122"></li><li class="text-indent-inner-1122"><span class="under-p">※受付時にカメラで部屋の中を360度映していただきます。</span></li>
+		<li class="text-indent-inner-1122">※お風呂場やお手洗いでの受検はできません。別の場所での受検をお願いします。</li>
+		
+            </ul>
+        </div>
+    </div>
+    
+
+    <div class="h3-div" id="2-6">
+        <img class="h3-no" src="images/__number_03.svg">
+        <h3>当日に用意するもの</h3>
+    </div>
+    <p class="body-text">
+        受検に必要な持ちものは以下のとおりです。
+    </p>
+
+    <div class="container con-03">
+        <ol class="number-li" start="1">
+            <li class="body-text bold-body" id="bold-top-2">顔写真付き本人確認書類<p></p>
+        </li></ol>
+        <div class="line-03"></div>
+        <img class="img-en" src="images/ready_4.png">
+        <div class="en-box">
+            <ul class="dot-li-ch">
+                <p class="body-text">以下条件を1点で満たすものに限ります。</p>
+                <li class="body-text">原本であること（コピー不可）。</li>
+                <li class="body-text">ラミネート加工がされていないこと。</li>
+                <li class="body-text">有効期限内であること。</li>
+                <li class="body-text">予約時に登録した氏名と本人確認書類の氏名が一致していること。</li>
+                <p class="body-text list-caption">【有効な本人確認書類の例】<br>運転免許証、パスポートなど（その他は<span class="under"><a href="https://arorua.net/viva/contents/tc_honninkakuninshorui.pdf" target="_blank">こちら</a></span>をご確認ください）
+                </p><p class="body-text list-caption">例えば予約時に登録した氏名がカナ表記、本人確認書類の表記が漢字またはアルファベットで、読みの一致が確認できない場合、本人確認書類の氏名の読みの判別がつかない場合なども、受検することができません。
+            </p></ul>
+        </div>
+    </div>
+    <div class="container con-03">
+        <ol class="number-li" start="2">
+            <li class="body-text bold-body" start="2">鉛筆（シャープペンシルも可）<p></p>
+        </li></ol>
+        <div class="line-03"></div>
+        <img class="img-en" src="images/ready_5.png">
+        <div class="en-box">
+            <ul class="dot-li-ch">
+                <li class="body-text">ボールペンは利用できません。</li>
+                <li class="body-text">ボールペン機能があるシャープペンシルも利用できません。</li>
+                <li class="body-text">消しゴムの持ち込みはできません。</li>
+            </ul>
+        </div>
+    </div>
+
+    <!--リリース後追加
+    <div class="container con-03">
+        <ol class="number-li" start="3">
+                <li class="body-text bold-body"> 顔写真付き本人確認書類</p>
+            </ol>
+        <div class="line-03"></div>
+        <img class="img-en" src="images/ready_6.png">
+        <div class="en-box">
+            <ul class="dot-li-ch">
+                <li class="body-text">上着、ズボン等のポケットは空にしてください。</li>
+                <li class="body-text">イヤホン、マスク、帽子は着用できません。</li>
+                <li class="body-text">腕時計、アクセサリーを外してください。</li>
+                <li class="body-text">スーツを着る必要はありません。</li>
+            </ul>
+        </div>
+    </div>
+    -->
+
+    <div class="container con-03">
+        <ol class="number-li" start="3">
+            <li class="body-text bold-body">白紙のA4サイズのメモ用紙2枚<p></p>
+        </li></ol>
+        <div class="line-03"></div>
+        <img class="img-en" src="images/ready_7.png">
+        <div class="en-box">
+            <ul class="dot-li-ch">
+                <li class="body-text">A4用紙以外は利用できません。</li>
+                <li class="body-text">ノートなど束になっているものは利用できません。</li>
+                <li class="body-text">文字などが記載、印刷されているものは利用できません（罫線のみであれば可）。</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="h3-div" id="2-7">
+        <img class="h3-no" src="images/__number_04.svg">
+        <h3>受検当日の準備</h3>
+    </div>
+    <p class="body-text">検査当日は、以下の写真のように、机の上には検査に必要なもの以外は何も置いていない状態にして、監督者と接続してください。</p>
+    <div class="desk-img"><img src="images/desk.jpg" alt=""></div>
+    <p class="body-text">なお、受検環境に関する詳細な条件は、以下をご確認ください。</p>
+    <div class="container con-03">
+        <ol class="number-li" start="1">
+            <li class="body-text bold-body" id="bold-top-3">検査を実施する部屋について<p></p>
+        </li></ol>
+        <img class="img-en" src="images/ready_8.png">
+        <div class="en-box">
+            <ul>
+                <li class="body-text border-dash">検査を実施できる場所・環境の条件は以下のとおりです。</li>
+            </ul>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">検査を行う部屋の中に、第三者がいる状態では受検できません。<br><span class="check-caption"><span class="indent">※故意である、なしに関わらず、第三者の方の入室は禁止となっています。第三者が勝手に入室できない環境を用意してください。</span></span></label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">四方が全て壁で仕切られている場所を用意してください。<br><span class="check-caption"><span class="indent">※壁に透明なガラスの部分があったり、窓があったりするなど、内外の状況が見える状態での受検はできません。</span></span><span class="check-caption"><span class="indent">※窓がある部屋で受検するには、外が完全に見えないようにカーテンを閉めていただく必要があります。</span></span></label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">監督者が監督する上で十分な明るさ、静かさが必要です。<br><span class="check-caption"><span class="indent">※監督者がカメラで受検者の顔や動作、本人確認書類、受検場所などが確認できるよう、受検する部屋は十分な明るさを確保してください。また、逆光になったり、死角ができたりしないようにしてください。</span></span><span class="check-caption"><span class="indent">※音声も監督しているため、検査以外の音声が入り込んだり、鳴らしたりしないようにしてください。また、音声が部屋の外に届かないようにしてください。</span></span></label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">検査を行う部屋は、持ち込み可能なもの以外はない状態にしてください。<br><span class="check-caption"><span class="indent">※カレンダーやポスターが壁に貼ってあったり、棚にものが置いてあったりする場合は、取り外していただくか、もしくは、見えないように隠しておいてください。</span></span></label>
+            </div>
+            <p class="body-text list-caption"><span class="indent"><span class="under-p">※受付時にカメラで部屋の中を360度映していただきます。</span></span></p>
+		<p class="body-text list-caption">※お風呂場やお手洗いでの受検はできません。別の場所での受検をお願いします。</p>
+        </div>
+    </div>
+    <div class="container con-03">
+        <ol class="number-li" start="2">
+            <li class="body-text bold-body">机の上について<p></p>
+        </li></ol>
+        <img class="img-en" src="images/ready_10.png">
+        <div class="en-box">
+            <ul>
+                <li class="body-text border-dash">検査が実施できる机、周辺の条件は以下のとおりです。</li>
+            </ul>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">受検に必要なものが用意できている。<br><span class="check-caption"><span class="indent">※受検に必要なものは、本人確認書類、筆記用具（ボールペン不可）、白紙のメモ用紙（A4サイズ・2枚）の3点。消しゴムは持ち込み不可。
+                </span></span></label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">受検中のバッテリー切れを防ぐために、電源と接続した状態で検査を実施してください。</label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">卓上には、持ち込みが許可されたもの以外は置かれていない。<br><span class="check-caption"><span class="indent">※持ち込みが許可されているのは、目薬（本体のみ。ケース不可）、ポケットティッシュ（箱ティッシュは不可）のみ。</span></span></label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">本や参考資料、飲み物など、検査に不要なものはすべて、手の届かない位置に移動させている。</label>
+            </div>
+        </div>
+    </div>
+    <div class="container con-03">
+        <ol class="number-li" start="3">
+            <li class="body-text bold-body">身につけられるものについて<p></p>
+        </li></ol>
+        <img class="img-en" src="images/ready_11.png">
+        <div class="en-box">
+            <ul>
+                <li class="body-text border-dash">検査を実施する際の条件は以下のとおりです。</li>
+            </ul>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">帽子、イヤホン、マスク、腕時計を身に着けていない。</label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">ピアス、ネックレス、ブレスレットなどのアクセサリー類を身に着けていない。</label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">ポケットには何も入っていない。</label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">手や腕にメモ書きなどがされていない。</label>
+            </div>
+        </div>
+    </div>
+    <div class="container con-03">
+        <ol class="number-li" start="4">
+            <li class="body-text bold-body">スマートフォンなどの通信機器について<p></p>
+        </li></ol>
+        <img class="img-en" src="images/ready_13.png">
+        <div class="en-box">
+            <ul>
+                <li class="body-text border-dash">検査を実施する際の条件は以下のとおりです。</li>
+            </ul>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">受付時にスマートフォンの電源を切っていただいたことを監督者が確認いたしますので、お手元にご準備ください。</label>
+            </div>
+
+        </div>
+    </div>
+    
+    <div class="container con-03">
+        <ol class="number-li" start="5">
+            <li class="body-text bold-body">パソコンの準備について<p></p>
+        </li></ol>
+        <img class="img-en" src="images/ready_12.png">
+        <div class="en-box">
+            <ul>
+                <li class="body-text border-dash">検査を実施する際の条件は以下のとおりです。</li>
+            </ul>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">外部ディスプレイなどのモニターと接続していない。</label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">検査に不要なプログラム、アプリケーション、ソフトウェアを起動していない。</label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">パソコン本体やモニター部分に付箋やメモ用紙を貼り付けていない。</label>
+            </div>
+            <div class="radio-con">
+                <input class="radio-out" type="checkbox"><label class="radio-text">カメラは受検者を正面から映す角度に設置されている。</label>
+            </div>
+        </div>
+    </div>
+
+
+</section>
+
+
+
+<!-------- 3. 検査開始までの流れ ----------->
+
+<section class="section" id="start">
+
+    <div class="h2-div">
+        <h2 class="h2-02">3.検査開始までの流れ</h2>
+        <hr class="h2-line">
+    </div>
+
+    <div class="container index">
+
+        <ul class="index-box index-left">
+            <a class="index-con" href="#3-1">
+                <li class="index 01"><img class="img-no" src="images/__number_01.svg"></li>
+                <li class="index cap">監督者との接続</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box">
+            <a class="index-con" href="#3-2">
+                <li class="index 01"><img class="img-no" src="images/__number_02.svg"></li>
+                <li class="index cap">開始受付</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box">
+            <a class="index-con" href="#3-3">
+                <li class="index 01"><img class="img-no" src="images/__number_03.svg"></li>
+                <li class="index cap">検査開始操作</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+            </ul>
+        
+
+    </div>
+
+    <hr class="index-line">
+
+    <p class="body-text">このあと、検査開始までには 「① 監督者との接続」「② 開始受付」「③ 検査開始操作」の3ステップがあります。</p>
+
+    <div class="h3-div" id="3-1">
+        <img class="h3-no" src="images/__number_01.svg">
+        <h3>監督者との接続</h3>
+    </div>
+    <p class="body-text">画面の案内に沿って監督者と接続する方法について説明いたします。</p>
+    <ul class="number-li">
+        <li>画面最下部の「チェックボックス」にチェックを入れたうえで、右上の「試験開始をリクエストする」ボタンを押して、監督者と接続してください。<br><span class="indent"><span class="under-p">※「試験開始をリクエストする」ボタンを押した時点から、Webカメラの映像が監督者側に共有されますので、ご承知おきください。</span></span></li>
+        <li>画面共有の設定画面が立ちあがりますので、「画面全体」を選択して「共有」を押してください。</li>
+        <li>「ビデオセッション」というウインドウが立ちあがったら、そのままの画面で監督者からのお声がけをお待ちください。<br><span class="indent"><span class="under-p">※なお、順番に受付を行いますが、15分以上待っても監督者からの声かけがない場合には、お手数ですが、オンライン会場当日窓口（050-3150-8877）までお電話ください。</span></span></li>
+        <li>監督者と繋がったら、指示に従って受付を行なってください。</li>
+    </ul>
+
+    <div class="h3-div" id="3-2">
+        <img class="h3-no" src="images/__number_02.svg">
+        <h3>開始受付</h3>
+    </div>
+    <p class="body-text">開始受付の流れについて説明いたします。</p>
+    <ul class="number-li">
+        <li>本人確認書類で本人確認を行います。</li>
+        <li><span class="under-p">カメラで部屋の中を360度映していただいて、受検に適した環境になっているかを確認します。</span></li>
+        <li>机の上全体を映していただいて確認します。</li>
+        <li>持ちものを一つひとつカメラに映していただいて確認します。</li>
+        <li>身につけているものを確認します。</li>
+        <li>パソコンの設定、起動中のプログラムを確認します。</li>
+    </ul>
+
+    <div class="h3-div" id="3-3">
+        <img class="h3-no" src="images/__number_03.svg">
+        <h3>検査開始操作</h3>
+    </div>
+    <p class="body-text">受付後の検査開始方法について説明いたします。</p>
+    <ul class="number-li">
+        <li>受付が終わりましたら、監督者の指示に従って「試験を開始」ボタンを押してください。</li>
+        <li>進んだ先の画面に表示される説明に沿って、検査を開始してください。</li>
+    </ul>
+
+</section>
+
+
+
+<!-------- 4. 検査が終了したら ----------->
+
+<section class="section" id="finished">
+
+    <div class="h2-div">
+        <h2 class="h2-02">4. 検査が終了したら</h2>
+        <hr class="h2-line">
+    </div>
+
+    <div class="container index">
+
+        <ul class="index-box index-left">
+            <a class="index-con" href="#4-1">
+                <li class="index 01"><img class="img-no" src="images/__number_01.svg"></li>
+                <li class="index cap">終了受付</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+
+    </div>
+
+    <hr class="index-line">
+
+    <p class="body-text">検査終了後に「終了受付」がございます。検査画面は閉じずに、そのままお待ちください。 なお、終了受付をしないで監督者との接続を終了してしまった場合、受検結果が無効になる場合がありますので、十分にご注意ください。</p>
+
+    <div class="h3-div" id="4-1">
+        <img class="h3-no" src="images/__number_01.svg">
+        <h3>終了受付</h3>
+    </div>
+    <p class="body-text">終了受付の流れは以下のとおりです。</p>
+    <ul class="number-li">
+        <li class="body-text">検査が終了しましたら終了画面を残したままお待ちください。</li>
+        <li class="body-text">検査終了後、10分以上待っても監督者との終了受付が始まらない場合は、オンライン会場当日窓口（050-3150-8877）までお電話ください。</li>
+        <li class="body-text">監督者と接続されたら、正しく受検完了しているかの確認と、メモ用紙の記載内容の確認を行います。</li>
+    </ul>
+
+</section>
+
+
+
+<!-------- 5. 禁止行為 ----------->
+
+<section class="section" id="avoid">
+
+    <div class="h2-div">
+        <h2 class="h2-02">5. 禁止事項・不正行為、その他の注意事項</h2>
+        <hr class="h2-line">
+    </div>
+
+    <div class="container index">
+
+        <ul class="index-box index-left">
+            <a class="index-con" href="#5-1">
+                <li class="index 01"><img class="img-no" src="images/__number_01.svg"></li>
+                <li class="index cap">禁止事項・不正行為</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box">
+            <a class="index-con" href="#5-2">
+                <li class="index 01"><img class="img-no" src="images/__number_02.svg"></li>
+                <li class="index cap">その他の注意事項</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+
+    </div>
+
+    <hr class="index-line">
+
+    <p class="body-text">禁止事項・不正事項、その他の注意事項についてご確認ください。</p>
+
+    <div class="h3-div" id="5-1">
+        <img class="h3-no" src="images/__number_01.svg">
+        <h3>禁止事項・不正行為</h3>
+    </div>
+
+    <p class="body-text">
+        監督者との接続後は必ず指示に従ってください。<br>
+        <span class="under-p">監督者の指示に従わない場合、または、禁止事項・不正行為が発覚した場合は、検査を中止します。</span>
+    </p>
+
+    <div class="column column-3" id="column-avoid">
+        <h5 class="margin-h5">禁止事項・不正行為</h5>
+        <hr class="vertical-line line-list">
+        <ul class="column-ul">
+            <li class="column-li dashed">
+                <p class="list-boss">持ち込み許可物以外を検査中に持ち込む行為</p>
+                <ul class="dot">
+                    <li class="list-dot">参考資料、書籍、テキスト、紙が束になった状態のもの、ノートの持ち込み。</li>
+                    <li class="list-dot">携帯電話、スマートフォンの電源を切らずに手の届く位置に置く。</li>
+                    <li class="list-dot">スパイカメラ、ボイスレコーダーなどの録画、録音、撮影、記録できる電子機器の持ち込みや利用。</li>
+                    <li class="list-dot">イヤホン、ヘッドフォン、帽子（宗教上の理由によらない被り物など）、コートやジャケットなどの上着を身に着ける。</li>
+                    <li class="list-dot">ズボン、胸ポケットの中に物を入れる。</li>
+                    <li class="list-dot">マスクの着用。</li>
+                </ul>
+            </li>
+            <li class="column-li dashed">
+                <p class="list-boss">検査環境の禁止行為</p>
+                <ul class="dot">
+                    <li class="list-dot">パソコン画面、モニターの画面を第三者から見える位置に設置する。</li>
+                    <li class="list-dot">外部ディスプレイ、モニターを複数接続する。<br><span class="indent">※物理的にモニターが接続してあるか、ないかにかかわらず、ディスプレイの設定画面で複数の接続がされているように表示されている場合には、受検を開始できません。</span></li>                    
+                    <li class="list-dot">パソコンに外付けのハードディスクやUSBメモリなどを接続する行為。<br>※Webカメラの接続は除く。</li>
+                    <li class="list-dot">Webカメラに映る範囲に検査実施に不適切なものを置く。</li>
+                    <li class="list-dot">照明が暗い、もしくは逆光などで受検者の顔が認識できない環境。</li>
+                </ul>
+            </li>
+            <li class="column-li dashed">
+                <p class="list-boss">検査中の禁止行為</p>
+                <ul class="dot">
+                    <li class="list-dot">飲食、喫煙。
+                    </li><li class="list-dot">問題を声に出して読み上げる、独り言を言う、口を覆い隠す。</li>
+                    <li class="list-dot">検査実施中Webカメラ、スピーカー、マイクを切る、切断する。</li>
+                    <li class="list-dot">検査実施に不要なソフトウェアやプログラム、通信機器、機材を起動、利用する。</li>
+                    <li class="list-dot">検査中にWebカメラのフレームから外れる、離席、退席、退出する。</li>
+                    <li class="list-dot">通信障害などで中断した場合に、監督者と接続せずに検査を実施する。</li>
+                    <li class="list-dot">実施エリアに受検者以外の第三者が入室、滞在する。</li>
+                    <li class="list-dot">第三者とコミュニケーションをとる、試みる（会話、電話、メール、SNSなど）。</li>
+                    <li class="list-dot">受付、問題、回答などの検査情報を記録、記憶する。</li>
+                    <li class="list-dot">机や壁、身体などに書き込みをする。</li>
+                    <li class="list-dot">検査実施後にメモ用紙の裏と表を監督者に見せない。</li>
+                </ul>
+            </li>
+            <li class="column-li dashed">
+                <p class="list-boss">悪質な不正行為</p>
+                <ul class="dot">
+                    <li class="list-dot">監督者の指示に従わない、禁止事項を繰り返す。</li>
+                    <li class="list-dot">本人確認書類の偽造、改造。</li>
+                    <li class="list-dot">受検者本人以外が受検する、または試みる。</li>
+                    <li class="list-dot">資料を見る、Webで検索するなどカンニングをする、または試みる。</li>
+                    <li class="list-dot">第三者からの支援を受ける、または試みる。</li>
+                    <li class="list-dot">検査内容をコピー、持出し、録画、録音、書き写し、拡散する行為。</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+    <div class="h3-div" id="5-2">
+        <img class="h3-no" src="images/__number_02.svg">
+        <h3>その他の注意事項</h3>
+    </div>
+    <p class="body-text">
+        その他の注意事項は以下の通りです。必ずご確認ください。
+    </p>
+
+    <div class="column column-3">
+        <h5 class="margin-h5" id="5-2">その他の注意事項</h5>
+        <hr class="vertical-line line-list">
+        <ul class="column-ul">
+            <li class="column-li dashed" id="non-dash-1">
+                <ul class="dot">
+                    <li class="list-dot">メモ用紙は、問題への回答にあたって必要な書き込みにのみご利用ください。<br><span class="indent"><span class="under-p">※検査終了後にメモ用紙の確認をいたしますので、監督者によく見えるようご提示ください。</span></span></li>
+                    <li class="list-dot">検査実施中に各種アプリケーションなどからの通知が画面上に表示されないように、必ず事前にご自身で設定のうえで受付にお入りください。</li>
+                    <li class="list-dot">受付開始直後から、カメラ映像、音声、パソコンの操作内容は監督されています。</li>
+                    <li class="list-dot">検査実施中は、体調不良を含めていかなる理由でも離席、退席することは認められておりません。</li>
+                    <li class="list-dot">検査実施中は、受付担当とは別の監督者からお声がけすることもございます。</li>
+                    <li class="list-dot">検査中に「次へ」ボタンが表示されないなどの不具合と思われる事象が起きた場合、監督者が確認させていただきますので、その場ですぐにご申告ください。なお、当該検査の終了後にご申告いただいてもやりなおしはできませんので、ご留意ください。</li>
+                </ul>
+            </li>            
+        </ul>
+    </div>
+
+</section>
+
+
+
+<!-------- 6. お問い合わせ ----------->
+
+<section class="section" id="q_a">
+
+    <div class="h2-div">
+        <h2 class="h2-02">6. 各種お問い合わせ</h2>
+        <hr class="h2-line">
+    </div>
+
+    <div class="container index">
+
+        <ul class="index-box index-left">
+            <a class="index-con" href="#6-1">
+                <li class="index 01"><img class="img-no" src="images/__number_01.svg"></li>
+                <li class="index cap">受検中の不具合・エラーについて</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+        <ul class="index-box">
+            <a class="index-con" href="#6-2">
+                <li class="index 01"><img class="img-no" src="images/__number_02.svg"></li>
+                <li class="index cap">各種お問い合わせ先</li>
+                <li class="index arrow"><img class="img-arrow" src="images/_arrow.svg"></li>
+            </a>
+        </ul>
+
+    </div>
+
+    <hr class="index-line">
+
+
+    <div class="h3-div" id="6-1">
+        <img class="h3-no" src="images/__number_01.svg">
+        <h3>受検中の不具合・エラーについて</h3>
+    </div>
+
+    <p class="body-text">検査実施中に問題が起きた際は、以下を確認を参照して対応してください。
+        <br><span class="under-p">なお、監督者に声をかけてから1分ほど待っても反応がない場合は、監督者との接続が切れている可能性があります。</span>
+        <br>その際はお手数ですが、オンライン会場当日窓口（050-3150-8877）までお電話ください。
+    </p>
+    <p class="heading-index-02">検査中にボタンが表示されない、<br class="sp-none">押せないなどの不具合が発生したら</p>
+    
+    <p class="body-text">
+        検査中に「次へ」ボタンが表示されない、ボタンが押せないなどの不具合が発生している場合は、必ず、その場で監督者にお申し出ください。<br>
+        <span class="under-p">検査終了後にご申告いただいたとしても、再受検は一切、認められませんのでご注意ください。</span>
+    </p>
+
+    <p class="heading-index-02">エラーなどで検査が中断してしまったら</p>
+
+    <p class="body-text">エラーや不具合などで検査が中断してしまった場合は、監督者にお声がけいただいて、再開方法を確認してください。</p>
+
+
+    <div class="h3-div" id="6-2">
+        <img class="h3-no" src="images/__number_02.svg">
+        <h3>各種お問い合わせ先</h3>
+    </div>
+
+    <p class="body-text">▼テストセンター受検・予約などに関するお問い合わせ</p>
+    <ul class="dot-li" id="f_q_margin-1">
+        <p class="body-text">テストセンターヘルプデスク</p>
+        <p class="body-text"> TEL:0570-081818<br class="sp-none">（受付時間 9:00~18:00/土日祝含む毎日）</p>
+    </ul>
+        
+    <p class="body-text">▼受検当日の監督者との接続、遅刻などに関するお問い合わせ</p>
+    <ul class="dot-li" id="f_q_margin-2">
+        <p class="body-text">オンライン会場当日窓口</p>
+        <p class="body-text"> TEL:050-3150-8877</p>
+    </ul>
+
+</section>
+
+
+
+<!-------- フッター ----------->
+
+<footer>
+
+    <div class="footer-navi-top">
+        <hr class="footer-line">
+        <div class="to-top">
+            <a class="to-top-link" href="#top"><img class="to-top-img" src="images/arrow_top.svg"></a>
+        </div>
+    </div>
+    <div class="footer-link">
+        <a href="#online"><p class="heading-index-03">1. オンライン会場とは</p></a>
+        <a href="#pre"><p class="heading-index-03">2. 事前準備</p></a>
+        <a href="#start"><p class="heading-index-03">3. 検査開始</p></a>
+        <a href="#finished"><p class="heading-index-03">4. 検査終了</p></a>
+        <a href="#avoid"><p class="heading-index-03">5. 禁止事項</p></a>
+        <a href="#q_a"><p class="heading-index-03">6. 各種お問い合わせ</p></a>
+    </div>
+    <div class="admin"><a href="https://exam.excert.org/check/" target="_blank" rel="noopener noreferrer">管理用</a></div>
+
+</footer>
+
+
+
+
+
+
+</body>
